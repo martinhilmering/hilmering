@@ -36,3 +36,4 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_adsense/google_adsense-ar21.svg"></a></code>
 
+<img src="https://github.com/martinhilmering/sources_all/blob/master/dino.gif" style="width: 100px;">
